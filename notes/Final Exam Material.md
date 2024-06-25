@@ -1,0 +1,6 @@
+- Chapter 12: Iterative Methods (Gaus-Seidel & Jacobi)
+- Chapter 14: Linear Regression
+- Chapter 14a: Curve Fitting
+- Chapter 15: General Linear Lease-squares and Nonlinear Regression
+- Chapter 17: Polynomial Interpolation
+- Chapter 18: Splines and Piecewise Interpolation (except Eigen Value dan Fourier)
