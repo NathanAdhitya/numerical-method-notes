@@ -43,3 +43,5 @@ def newton_raphson(f: Callable, x0: np.ndarray, es=0.00001, max_iter=50):
             print(f"Took {it} iterations to converge")
             break
     return x
+
+print(newton_raphson())
