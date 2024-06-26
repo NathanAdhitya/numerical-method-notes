@@ -22,3 +22,4 @@ print(x)
 
 # fungsi akhir regresi
 # f(x) = a0 + a1*x + a2*x^2
+print("y =", x[0], "+", x[1], "x + ", x[2], "x^2")
